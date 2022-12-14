@@ -1,5 +1,4 @@
 # BMI_Calculator
 BMI Calculator using Kotlin
 
-![Screenshot](BMICalculator/Interface.jpg)
-![Interface](https://github.com/Manus-MG/BMI_Calculator/blob/6c5b1755e72eac1d8136c6f6f4b04f399aaf11c3/BMICalculator/Interface.jpg)
+![Interface](https://user-images.githubusercontent.com/91424400/207567013-8eb1733e-242d-4d94-ab02-4f26a7ee234e.jpg)
